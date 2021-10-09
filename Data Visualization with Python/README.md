@@ -1,2 +1,0 @@
-# Data Visualization with Python
-In this Assignment, you will demonstrate the data visualization skills you learned by completing this course. You will be required to generate two visualization plots. The first one will be a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot is a Choropleth map of the crime rate in San Francisco.
